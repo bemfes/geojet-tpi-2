@@ -4173,6 +4173,9 @@ body {
 }
 
 @media(max-width: 576px) {
+  .service-title_vedart-search_tpi {
+    font-size: 22px !important;
+  }
   .vedart-job-sec__img_tpi {
     height: 140px;
     border-radius: 20px;
