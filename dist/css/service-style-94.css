@@ -4173,6 +4173,18 @@ body {
 }
 
 @media(max-width: 576px) {
+    .vedart-methods-pluses__item-title {
+        font-size: 16px;
+    }
+  .veadrt-consult-sec__content-left_tpi .service-title {
+    margin-bottom: 25px !important;
+}
+  .veadrt-consult-sec__text_tpi:last-child {
+    margin-bottom: 25px;
+}
+  .veadrt-consult-sec_tpi {
+    padding: 45px 0px;
+  }
   .service-title_vedart-search_tpi {
     font-size: 22px !important;
   }
